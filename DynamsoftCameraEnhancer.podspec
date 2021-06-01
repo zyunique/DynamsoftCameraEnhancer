@@ -1,8 +1,8 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "DynamsoftCameraEnhancer"
-  spec.version      = "1.2.0"
-  spec.summary      = "DynamsoftCameraEnhancer SDK 1.2.0."
+  spec.version      = "1.0.0"
+  spec.summary      = "DynamsoftCameraEnhancer SDK 1.0.0."
   spec.description  = <<-DESC
   Dynamsoft Camera Enhancer is best !
                    DESC
